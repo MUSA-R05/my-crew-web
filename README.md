@@ -17,7 +17,7 @@ uni-friends-web
 
 💡 Features
 
-Clean layout with heading levels (<h1>, <h3>, etc.)
+Clean layout with heading levels(<h1>, <h3>, etc.)
 
 
 Floated and styled image with rounded edges
