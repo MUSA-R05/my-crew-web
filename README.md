@@ -1,10 +1,12 @@
 This is a simple personal webpage created using HTML and CSS. It introduces some of my university friends and shows the regions they come from — such as Giyani, Mpumalanga, and more — along with cultural/language elements like Zulu, Swati, and Tsonga.
 
 📁 Folder Structure
-uni-friends-web
+my-crew-web
 ├── index.html # Main webpage
+
 ├── images
 │ └── musa.jpg # Group photo used in the layout
+
 ├── README.md # This file
 
 💡 Features
