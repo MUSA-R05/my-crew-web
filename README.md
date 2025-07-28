@@ -19,6 +19,7 @@ uni-friends-web
 
 Clean layout with heading levels (<h1>, <h3>, etc.)
 
+
 Floated and styled image with rounded edges
 
 Colored <em> text to highlight key locations and names
