@@ -5,7 +5,7 @@ my-crew-web
 ├── index.html # Main webpage
 
 ├── images
-│
+
 └── musa.jpg # Group photo used in the layout
 
 ├── README.md # This file
