@@ -9,7 +9,8 @@ my-crew-web
 
 └── musa.jpg # Group photo used in the layout
 
-├── README.md # This file
+
+
 
 💡 Features
 
