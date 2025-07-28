@@ -6,11 +6,14 @@ This is a simple personal webpage created using HTML and CSS. It introduces some
   here is the web page!!
   
 📁 Folder Structure
-uni-friends-web/
+uni-friends-web
+
 ├── index.html        # Main webpage
-├── images/
+├── images
+
 │   └── musa.jpg      # Group photo used in the layout
-├── README.md         # This file
+
+├── README.md         
 
 💡 Features
 
