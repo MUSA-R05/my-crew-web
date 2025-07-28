@@ -1,7 +1,9 @@
 # my-crew-web
 This is a simple personal webpage created using HTML and CSS. It introduces some of my university friends and shows the regions they come from — such as Giyani, Mpumalanga, and more — along with cultural/language elements like Zulu, Swati, and Tsonga.
+
 [media pointer="file-service://file-2jdJfDeYAxGv9fxZ2VEhzM"]
   here is the web page!!
+  
 📁 Folder Structure
 uni-friends-web/
 ├── index.html        # Main webpage
@@ -10,6 +12,7 @@ uni-friends-web/
 ├── README.md         # This file
 
 💡 Features
+
 Clean layout with heading levels (<h1>, <h3>, etc.)
 
 Floated and styled image with rounded edges
