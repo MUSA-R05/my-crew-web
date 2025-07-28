@@ -2,6 +2,7 @@ This is a simple personal webpage created using HTML and CSS. It introduces some
 
 📁 Folder Structure
 my-crew-web
+
 ├── index.html # Main webpage
 
 ├── images
